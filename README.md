@@ -22,6 +22,11 @@ My name is Stefan Bojilov — data science student, interested in applying softw
     and produces ML-ready feature tables for electricity price forecasting.
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/stefanbozhilov/acled">
+    <b>ACLED Conflict Pipeline</b> — Data pipeline built on Dagster that ingests live conflict event data from the ACLED API, validates and stores it across S3 and PostgreSQL, and runs an XGBoost forecasting model to generate automated PDF intelligence reports.
+  </a>
+</p>
 
 <h2 align="center">Technologies I have worked with:</h2>
 
