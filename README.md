@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">
-My name is Stefan Bojilov — data science student, interested in applying software-engineering best practices to data science and data engineering projects. 
+My name is Stefan Bojilov — MSc Data science student, interested in applying software-engineering best practices to data science and data engineering projects. 
 </h3>
 
 <h2 align="center">Experience:</h2>
