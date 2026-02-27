@@ -10,14 +10,14 @@ My name is Stefan Bojilov — data science student, interested in applying softw
 <table align="center">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1280px-NATO_OTAN_landscape_logo.svg.png" alt="NATO Logo" width="200"></td>
-    <td valign="middle"><h3>Data Science Internship</h3></td>
+    <td valign="middle"><h3> NATO Data Science Internship</h3></td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
     <td><img src="https://media.licdn.com/dms/image/v2/C560BAQHc_geW91VUmg/company-logo_200_200/company-logo_200_200/0/1630590161830/gate_institute_logo?e=1773878400&v=beta&t=Rhx8QLnKxVeSK_GYyiw023GJaMsftNfNbWE1M8QQSDo" alt="GATE Institute Logo" width="200"></td>
-    <td valign="middle"><h3>GATE Institute — Your Role Here</h3></td>
+    <td valign="middle"><h3>GATE Institute (NATO DIANA AI Test Centre) Intern</h3></td>
   </tr>
 </table>
 
