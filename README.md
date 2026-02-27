@@ -14,6 +14,15 @@ My name is Stefan Bojilov — data science student, interested in applying softw
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td><img src="https://media.licdn.com/dms/image/v2/C560BAQHc_geW91VUmg/company-logo_200_200/company-logo_200_200/0/1630590161830/gate_institute_logo?e=1773878400&v=beta&t=Rhx8QLnKxVeSK_GYyiw023GJaMsftNfNbWE1M8QQSDo" alt="GATE Institute Logo" width="200"></td>
+    <td valign="middle"><h3>GATE Institute — Your Role Here</h3></td>
+  </tr>
+</table>
+
+
+
 <h2 align="center">Personal / University Projects:</h2>
 <p align="center">
   <a href="https://github.com/stefanbozhilov/energy-forecast">
